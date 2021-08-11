@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/prithvirey" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prithvi" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/prithvi-raj-4773421a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="prithvi" height="20" width="20" /></a>
-<a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20" /></a>
-  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prithvi" height="20" width="20" color="white" /></a>
+<a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20"/></a>
 </p>
 <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg &layout=compact) -->
