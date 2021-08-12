@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20"/></a>
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg)](https://github.com/prithvi-jpg/github-readme-stats)
+<a href="https://github.com/prithvi-jpg/prithvi-jpg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
