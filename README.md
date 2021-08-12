@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-<a href="https://twitter.com/prithvirey" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prithvi" height="20" width="20" /></a>
+<a href="https://twitter.com/prithvirey" target="_blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F708%2F311%2Fpng-clipart-twitter-twitter-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3DTWITTER&tbnid=zXLPg0UCBRRD5M&vet=12ahUKEwiq8MGRravyAhVx4XMBHVkvDaIQMygAegUIARDDAQ..i&docid=nSSGmllCYTUiyM&w=348&h=348&q=twitter%20icon&ved=2ahUKEwiq8MGRravyAhVx4XMBHVkvDaIQMygAegUIARDDAQ" alt="prithvi" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/prithvi-raj-4773421a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi" height="20" width="20" /></a>
 <a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20"/></a>
 </p>
 <br>
-<a href="https://github.com/prithvi-jpg/prithvi-jpg">
+<!-- <a href="https://github.com/prithvi-jpg/prithvi-jpg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 
