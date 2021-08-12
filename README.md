@@ -26,6 +26,8 @@ Here are some ideas to get you started:
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 <strong>Welcome to my GitHub profile, I'm a Fullstack developer who is obssesed with Design and building apps for web and phone. </strong>
+- 🌱 I’m currently Studying at Pes university(comp sci) final year...
+- ⚡ Fun fact: you can now register for open ai codex beta.
 
 </pre>
 <br>
@@ -39,5 +41,5 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20"/></a>
 </p>
 <br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg &layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-jpg)](https://github.com/prithvi-jpg/github-readme-stats)
 
