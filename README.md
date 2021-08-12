@@ -25,8 +25,9 @@ Here are some ideas to get you started:
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<strong>Welcome to my GitHub profile, I'm a Fullstack developer who is obssesed with Design and building apps for web and phone. </strong>
+<strong>Welcome to my GitHub profile! </strong>
 - 🌱 I’m currently Studying at Pes university(comp sci) final year...
+- 🔭 I also like documenting - checkout my yt.
 - ⚡ Fun fact: you can now register for open ai codex beta.
 
 </pre>
@@ -36,9 +37,10 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-<a href="https://twitter.com/prithvirey" target="_blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F708%2F311%2Fpng-clipart-twitter-twitter-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3DTWITTER&tbnid=zXLPg0UCBRRD5M&vet=12ahUKEwiq8MGRravyAhVx4XMBHVkvDaIQMygAegUIARDDAQ..i&docid=nSSGmllCYTUiyM&w=348&h=348&q=twitter%20icon&ved=2ahUKEwiq8MGRravyAhVx4XMBHVkvDaIQMygAegUIARDDAQ" alt="prithvi" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/prithvi-raj-4773421a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi" height="20" width="20" /></a>
-<a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prithvi" height="20" width="20"/></a>
+<a href="https://twitter.com/prithvirey" target="_blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="prithvi" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/prithvi-raj-4773421a1/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="prithvi" height="20" width="20" /></a>
+<a href="https://instagram.com/prithvi.jpg" target="_blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="prithvi" height="20" width="20"/></a>
+<a href="https://youtube.com/playlist?list=PLfpjzwjoV1Fx_PRhc9iQVsJhhL4pD8wsP" target="_blank"><img align="center" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" alt="prithvi" height="20" width="20"/></a>
 </p>
 <br>
 <!-- <a href="https://github.com/prithvi-jpg/prithvi-jpg">
