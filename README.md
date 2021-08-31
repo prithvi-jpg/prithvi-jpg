@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently Studying at Pes university(comp sci) final year...
 - 🔭 I also like documenting - checkout my yt.
 - ⚡ Fun fact: you can now register for open ai codex beta.
-- 😄 Checkout my dictionary pwa here - prithvi-dict.netlify.app
+- 😄 Checkout my dictionary pwa here : prithvi-dict.netlify.app
 
 </pre>
 <br>
