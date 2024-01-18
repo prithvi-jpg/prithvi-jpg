@@ -26,7 +26,7 @@ Here are some ideas to get you started:
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 <strong>Welcome to my GitHub profile! </strong>
-- 🌱 I’m currently Studying at Pes university(comp sci) final year...
+- 🌱 I’m currently working at softwareag as SDEII ...
 - 🔭 I also like documenting - checkout my yt.
 - ⚡ Fun fact: you can now register for open ai codex beta.
 - 😄 Checkout my dictionary pwa here : <a href="https://prithvi-dict.netlify.app/">prithvi-dict.netlify.app</a> , and my angular app - <a href="https://worktaskfire.web.app/">prithvi-workspace</a>
